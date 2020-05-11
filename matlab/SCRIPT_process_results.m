@@ -8,7 +8,7 @@ addpath('functions/allan_v3')
 
 % Our bag information
 titlestr = '';
-mat_path = '../data/results_test.mat';
+mat_path = '../data/results_3_1.mat';
 
 % Load the mat file (should load "data_imu" matrix)
 fprintf('=> opening the mat file.\n')
